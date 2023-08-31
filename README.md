@@ -1,5 +1,5 @@
 # final-project-aplicatie-calculator
-Through this project, I wanted to create a computer-type application based on the Glassmorphism style, using the following programming languages: HTML, CSS and JavaScript.
+Prin acest proiect mi-am dorit să creez o aplicație de calculator științific matematic bazată pe stilul Glassmorphism, folosind următoarele limbaje de programare: HTML, CSS și JavaScript.
 
 Instructiuni de instalare:
     -Se va accesa link-ul corespunzător dedicat proiectului;
